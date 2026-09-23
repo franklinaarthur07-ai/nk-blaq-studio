@@ -12,11 +12,8 @@ const FRONTEND_URL = process.env.FRONTEND_URL || 'http://localhost:3001';
 
 /* ---------- Middleware ---------- */
 app.use(cors({
-  origin: [
-    'http://localhost:3001',
-    'http://127.0.0.1:3001',
-    FRONTEND_URL
-  ]
+  origin: true ,
+  credentials: false
 }));
 app.use(express.json());
 

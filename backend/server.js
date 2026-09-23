@@ -59,7 +59,7 @@ app.get('/api/services', (req, res) => res.json(services));
 app.get('/api/payment-info', (req, res) => {
   res.json({
     momoName: process.env.MOMO_NAME || 'NK Blaq Studio',
-    momoNumber: process.env.MOMO_NUMBER || '055 000 0000',
+    momoNumber: process.env.MOMO_NUMBER || '055 339 1790',
     momoProvider: process.env.MOMO_PROVIDER || 'MTN MoMo',
     depositPercent: parseInt(process.env.DEPOSIT_PERCENT || '50', 10)
   });

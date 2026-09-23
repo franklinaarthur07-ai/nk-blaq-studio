@@ -6,12 +6,11 @@ window.NK_CONFIG = {
     tagline: 'Fine Art Photography',
     email: 'hello@nkblaqstudio.com',
     phone: '+233 55 339 1790',
-    location: 'Accra · Ghana'
+    location: 'kumasi · Ghana'
   },
 
   SOCIALS: {
     instagram: 'https://instagram.com/nkblaqstudio',
-    behance:   'https://behance.net/nkblaqstudio',
     pinterest: 'https://pinterest.com/nkblaqstudio',
     tiktok:    'https://tiktok.com/@nkblaqstudio'
   }

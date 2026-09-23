@@ -1,5 +1,5 @@
 window.NK_CONFIG = {
-  API_BASE_URL: 'http://localhost:5002/api',
+  API_BASE_URL: API_BASE_URL:'https://nk-blaq-studio-backend.onrender.com/api',
 
   BRAND: {
     name: 'NK Blaq Studio',

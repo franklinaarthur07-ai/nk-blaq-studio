@@ -1,5 +1,5 @@
 const CFG = window.NK_CONFIG || {};
-const API_URL = CFG.API_BASE_URL || 'http://localhost:5001/api';
+const API_URL = CFG.API_BASE_URL || 'https://nk-blaq-studio-backend.onrender.com/api';
 const SOCIALS = CFG.SOCIALS || {};
 const BRAND = CFG.BRAND || {};
 

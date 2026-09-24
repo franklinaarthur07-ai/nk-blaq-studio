@@ -8,7 +8,6 @@ const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 
 const SOCIAL_META = [
   { key: 'instagram', icon: 'fa-instagram', label: 'Instagram' },
-  { key: 'behance',   icon: 'fa-behance',   label: 'Behance' },
   { key: 'pinterest', icon: 'fa-pinterest', label: 'Pinterest' },
   { key: 'tiktok',    icon: 'fa-tiktok',    label: 'TikTok' }
 ];

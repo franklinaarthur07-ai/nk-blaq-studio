@@ -190,7 +190,7 @@ async function sendClientConfirmation(booking) {
 
     <p>
       If you need to reach us sooner, simply reply to this email or
-      call <strong>+233 55 000 0000</strong>.
+      call <strong>+233 55 339 1790</strong>.
     </p>
     <p style="margin-top: 32px;">
       With warmth,<br>

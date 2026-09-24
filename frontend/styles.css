@@ -205,7 +205,10 @@ h1 em, h2 em, h3 em {
 .hero-inner {
   position: relative;
   z-index: 1;
-  max-width: 900px;
+  max-width: 780px;
+  margin-left: 0;
+  margin-right: auto;
+  text-align: left;
 }
 
 .hero-eyebrow {
@@ -226,10 +229,12 @@ h1 em, h2 em, h3 em {
 }
 
 .hero-title {
-  font-size: clamp(3rem, 8vw, 6.5rem);
+  font-size: clamp(2.8rem, 7vw, 5rem);
   font-weight: 300;
-  line-height: .95;
+  line-height: 0.95;
   margin-bottom: 32px;
+  letter-spacing: -0.02em;
+  text-align: left;
 }
 .hero-title em {
   color: var(--gold);
